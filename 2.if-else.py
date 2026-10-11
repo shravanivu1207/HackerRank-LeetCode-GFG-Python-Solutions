@@ -1,3 +1,4 @@
+#Python If-Else
 n=int(input(""))
 if not (n%2==0):
     print("Weird")
